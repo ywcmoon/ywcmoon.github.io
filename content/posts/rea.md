@@ -1,3 +1,12 @@
+---
+title: "REA（Reverse Engineer Anything）安装与使用指南"
+date: 2026-11-10
+draft: false
+tags: ["REA"]
+categories: ["教程"]
+summary: "REA 安装与使用指南"
+---
+
 # REA（Reverse Engineer Anything）安装与使用指南
 
 > 适用平台：Windows 10/11 x64（本文命令为 PowerShell）
