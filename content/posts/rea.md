@@ -2,18 +2,19 @@
 title: "REA（Reverse Engineer Anything）安装与使用指南"
 date: 2026-11-10
 draft: false
-tags: ["REA"]
+tags: ["REA", "逆向工程", "Ghidra"]
 categories: ["教程"]
-summary: "REA 安装与使用指南"
+summary: "Windows 下安装 REA 与可选分析引擎（Ghidra / WABT / Wireshark），附本机实测结果、能力矩阵与故障排查。"
 ---
-
-# REA（Reverse Engineer Anything）安装与使用指南
 
 > 适用平台：Windows 10/11 x64（本文命令为 PowerShell）
 > 实测版本：`rea-agents 6.8.0`（SDK 2.3.1，MCP 工具 229 个 / CLI 命令 175 个 / Prompt 6 个）
 > 最后验证：2026-11-10
 
 ---
+
+
+
 
 ## 一、能力边界
 
